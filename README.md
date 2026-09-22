@@ -1,6 +1,6 @@
 # Automated Nette Web Deployment
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20ARM-lightgrey.svg)]()
 [![PHP](https://img.shields.io/badge/PHP-8.2-777bb4.svg)]()
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ed.svg)]()
