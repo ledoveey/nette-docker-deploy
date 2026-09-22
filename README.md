@@ -95,7 +95,7 @@ Or provide parameters directly:
 #### Example:
 
 ```bash
-./deploy.sh my_eshop shop.example.com [https://github.com/example/nette-eshop.git](https://github.com/example/nette-eshop.git)
+./deploy.sh my_eshop shop.example.com https://github.com/example/nette-eshop.git
 ```
 
 ---
