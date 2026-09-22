@@ -1,0 +1,4 @@
+.npm_config
+*.sql
+*.log
+.DS_Store
