@@ -74,7 +74,7 @@ It automates the entire lifecycle: repository cloning, PHP environment configura
 You can download `deploy.sh` directly into your working environment:
 
 ```bash
-curl -fsSL [https://raw.githubusercontent.com/ledoveey/nette-docker-deploy/main/deploy.sh](https://raw.githubusercontent.com/ledoveey/nette-docker-deploy/main/deploy.sh) -o deploy.sh
+curl -fsSL https://raw.githubusercontent.com/ledoveey/nette-docker-deploy/main/deploy.sh -o deploy.sh
 chmod +x deploy.sh
 ```
 
